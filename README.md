@@ -22,4 +22,12 @@ In this analysis I am exploring the dataset related to the following:
 
 Now let's start dealing with it now!
 
+Stages that are completed:
+
+```1. Loading all the data sets```
+```2. Deleting not required columns``` 
+List of columns deleted : ['Date','Series','VWAP','Volume','Turnover','Trades','Deliverable Volume','%Deliverble']
+```3. Creating a new data frame by combining all the other datasets```
+list of columns : [Symbol, Prev, Close, Open, High,	Low, Last, Close, year, month]
+
 
